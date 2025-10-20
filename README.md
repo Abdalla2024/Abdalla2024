@@ -11,7 +11,7 @@ I'm Abdalla Abdelmagid, an **iOS Developer** passionate about creating exception
 
 ### 📱 App Store Portfolio
 
-I've developed and published 10 apps on the App Store, each crafted with attention to detail and user experience. My apps span various categories and demonstrate my versatility in iOS development.
+I've developed and published over 10 apps to the App Store, each crafted with attention to detail and user experience. My apps span various categories and demonstrate my versatility in iOS development.
 
 ### 📊 GitHub Stats
 
