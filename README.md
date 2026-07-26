@@ -13,14 +13,6 @@ I'm Abdalla Abdelmagid, an **iOS Developer** passionate about creating exception
 
 I've developed and published over 10 apps to the App Store, each crafted with attention to detail and user experience. My apps span various categories and demonstrate my versatility in iOS development.
 
-### 📊 GitHub Stats
-
-<a href="https://github.com/Abdalla2024">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdalla2024&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&hide_progress=true" />
-</a>
-<a href="https://github.com/Abdalla2024">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abdalla2024&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
-</a>
 
 ### 📫 How to reach me
 
