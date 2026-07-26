@@ -5,7 +5,7 @@ I'm Abdalla Abdelmagid, an **iOS Developer** passionate about creating exception
 ### 🚀 What I Do
 
 - **iOS Development** with Swift & SwiftUI
-- **App Store Publishing** - 10 successful apps and counting
+- **App Store Publishing** - 14 successful apps and counting
 - **Mobile UI/UX Design** - Creating intuitive user experiences
 - **App Performance Optimization** - Ensuring smooth, responsive apps
 
