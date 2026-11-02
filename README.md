@@ -1,24 +1,30 @@
-## Hi there 👋
+## Hi, I’m Abdalla Abdelmagid 👋
 
-I'm Abdalla Abdelmagid, an **iOS Developer** passionate about creating exceptional mobile experiences. I specialize in Swift development and have successfully published **10 apps** on the App Store.
+**AI Builder · iOS Developer**
 
-### 🚀 What I Do
+I build practical software that helps people spend less time on repetitive work. I start by understanding how people work, identify where a tool can help, then build and refine a solution around that workflow.
 
-- **iOS Development** with Swift & SwiftUI
-- **App Store Publishing** - 14 successful apps and counting
-- **Mobile UI/UX Design** - Creating intuitive user experiences
-- **App Performance Optimization** - Ensuring smooth, responsive apps
+### What I do
 
-### 📱 App Store Portfolio
+- **AI building:** Interview business owners, identify operational problems, and build task-specific AI skills and tools.
+- **iOS development:** Build apps with Swift and SwiftUI; I’ve published 10+ apps to the App Store.
+- **Workflow automation:** Turn manual processes into clear, reviewable software workflows.
+- **Human-centered design:** Keep people in control of important decisions and make tools easy to understand.
 
-I've developed and published over 10 apps to the App Store, each crafted with attention to detail and user experience. My apps span various categories and demonstrate my versatility in iOS development.
+### AI builder work
+
+**Just Ventures — AI Builder Fellowship**
+
+- Completed five projects for small business owners.
+- Interviewed owners to understand their day-to-day challenges.
+- Built AI skills tailored to the problems they identified.
 
 
-### 📫 How to reach me
+### Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/abdalla-abdelmagid-4b763b29b/
-- Email: abdallaa2024@gmail.com
-- GitHub: https://github.com/Abdalla2024
+- [LinkedIn](https://www.linkedin.com/in/abdalla-abdelmagid-4b763b29b/)
+- [Email](mailto:abdallaa2024@gmail.com)
+- [GitHub](https://github.com/Abdalla2024)
 
 ---
 
